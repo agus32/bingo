@@ -1,6 +1,6 @@
 from src.bingo import carton
 
-def test_contar_celdas_ocupadas():
+def test_no_menor():
     mi_carton = carton()
     contador = 0
     for fila in mi_carton:
