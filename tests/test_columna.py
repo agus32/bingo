@@ -8,5 +8,5 @@ def test_columna():
         suma= sum([fila[j] for fila in mi_carton])
 	if suma > 0:
 		contador = contador+1
-# contador suma 1 por cada columna no vacía 
+# contador suma 1 por cada columna no vacia 
     assert contador == 9
