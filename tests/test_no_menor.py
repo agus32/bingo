@@ -7,5 +7,5 @@ def test_no_menor():
         for celda in fila:
             contador = contador + celda
     
-    # Esperamos encontrar 15 celdas ocupadas.
+    # Esperamos encontrar no menos de 15 celdas ocupadas.
     assert contador >= 15
