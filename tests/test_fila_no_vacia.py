@@ -9,5 +9,5 @@ def test_no_mayor():
             contador = contador + celda
         if contador > 0:
             lleno = lleno+1    
-    # Esperamos encontrar 15 celdas ocupadas.
+    # Esperamos encontrar 3 filas no vacias
     assert lleno == 3
