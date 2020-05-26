@@ -1,6 +1,6 @@
 from src.bingo import carton
 
-def test_no_menor():
+def test_no_mayor():
     mi_carton = carton()
     contador = 0
     celda_vacia = 0
