@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/agus32/bingo.svg?branch=master)](https://travis-ci.com/agus32/bingo) 
 [![Coverage Status](https://coveralls.io/repos/github/agus32/bingo/badge.svg?branch=master)](https://coveralls.io/github/agus32/bingo?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/agus32/bingo/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/agus32/bingo/?branch=master)
 # Bingo
 
 Bingo application developed in Python as a school project
