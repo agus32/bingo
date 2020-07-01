@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/agus32/bingo.svg?branch=master)](https://travis-ci.com/agus32/bingo)
+[![Build Status](https://travis-ci.com/agus32/bingo.svg?branch=master)](https://travis-ci.com/agus32/bingo) 
+[![Coverage Status](https://coveralls.io/repos/github/agus32/bingo/badge.svg?branch=master)](https://coveralls.io/github/agus32/bingo?branch=master)
 # Bingo
 
 Bingo application developed in Python as a school project
@@ -19,6 +20,9 @@ Use pytest for running the tests
 * [Git](https://git-scm.com/) - To pull and push the GitHub commits
 * [Pytest](https://docs.pytest.org) - Used for running the tests
 * [Travis](https://travis-ci.com) - Used for automatic test running
+
+## License
+See the [LICENSE](https://github.com/agus32/bingo/blob/master/LICENSE.md) file for license rights and limitations (GNU GPLv3).
 
 ## Authors
 
