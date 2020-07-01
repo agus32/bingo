@@ -6,3 +6,7 @@ python:
 cache: pip
 install:
   - pip install pytest pytest-cov coveralls
+script:
+  - pytest --cov=src/
+after_success:
+   coveralls
